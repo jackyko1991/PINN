@@ -32,3 +32,4 @@ By integrating the physics of the problem directly into the neural network train
 
 ## Example Use Case:
 1. [Wave equation](./notebooks/wave_equation.ipynb)
+2. [2D Incompressible Navier-Stokes Equations](./notebooks/2d_ns_equation.ipynb)
