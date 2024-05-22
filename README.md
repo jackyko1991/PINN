@@ -31,5 +31,13 @@ The total loss is a weighted sum of the data loss and the PDE residual loss.
 By integrating the physics of the problem directly into the neural network training process, PINNs provide a powerful tool for solving complex PDEs and modeling physical systems. This approach can be particularly useful when data is sparse or when seeking solutions that adhere strictly to known physical laws.
 
 ## Example Use Case:
-1. [Wave equation](./notebooks/wave_equation.ipynb)
+1. [Wave Equation](./notebooks/wave_equation.ipynb)
 2. [2D Incompressible Navier-Stokes Equations](./notebooks/2d_ns_equation.ipynb)
+3. Diffusion Equation
+4. Inverse Problem
+5. Transformer Network
+
+## References
+- [Nvidia Modulus Doc](https://docs.nvidia.com/deeplearning/modulus/modulus-v2209/index.html)
+- [Physics Informed Deep Learning Data-driven solutions and discovery of Nonlinear Partial Differential Equations](https://maziarraissi.github.io/PINNs/)
+- 
