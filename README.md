@@ -33,11 +33,12 @@ By integrating the physics of the problem directly into the neural network train
 ## Example Use Case:
 1. [Wave Equation](./notebooks/wave_equation.ipynb)
 2. [2D Incompressible Navier-Stokes Equations](./notebooks/2d_ns_equation.ipynb)
-3. Diffusion Equation
+3. [Diffusion Equation](./notebooks/diffusion_equation.ipynb)
 4. Inverse Problem
 5. Transformer Network
+6. [Inverse Laplace Transform](./notebooks/inverse_laplace_transform.ipynb)
 
 ## References
 - [Nvidia Modulus Doc](https://docs.nvidia.com/deeplearning/modulus/modulus-v2209/index.html)
 - [Physics Informed Deep Learning Data-driven solutions and discovery of Nonlinear Partial Differential Equations](https://maziarraissi.github.io/PINNs/)
-- 
+- [Learning-PIML-in-Python-PINNs-DeepONets-RBA](https://github.com/jdtoscano94/Learning-Scientific_Machine_Learning_Residual_Based_Attention_PINNs_DeepONets/tree/main)
